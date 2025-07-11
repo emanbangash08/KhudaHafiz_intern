@@ -9,3 +9,9 @@
 - Built with Next.js + Tailwind + TypeScript
 - Features: Basic Calculator Operations
 - File: `pages/calculator.tsx`
+### 🌤️ Weather Forecast App
+
+#### 🚀 Features
+- Live weather data using [OpenWeatherMap API](https://openweathermap.org)
+- Displays temperature, humidity.
+- User can input any city to get current weather
